@@ -7,6 +7,9 @@
 
 - [SIEM Tool Home Lab](https://github.com/1317786/SIEMHomeLab)
   
+- [Python Hash Cracker](https://github.com/1317786/PythonHashCracker)
+  
+  
 
 <h2>📝 Certifications</h2>
   - [Google Cybersecurity](link here)
