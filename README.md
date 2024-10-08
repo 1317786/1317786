@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Daniel!</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Technical Projects:</h2>
 - [Active Directory Home Lab](https://github.com/1317786/ActiveDirectoryLab)
 
 - [Active Directory Home Lab](https://github.com/1317786/ActiveDirectoryLab)
