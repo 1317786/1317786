@@ -8,6 +8,9 @@
 - [SIEM Tool Home Lab](https://github.com/1317786/SIEMHomeLab)
   
 - [Python Hash Cracker](https://github.com/1317786/Python-Hash-Cracker)
+
+- [Password Strength Checker](https://github.com/1317786/Password-Strength-Checker)
+
   
   
 
