@@ -14,14 +14,10 @@
 - [Python Emailer](https://github.com/1317786/Python-Emailer-)
 
 
-
-
-  
   
 
 <h2>📝 Certifications</h2>
-  - [Google Cybersecurity](https://www.credly.com/badges/aba3ca12-6933-42ec-8a87-e0061fe98b4b/public_url)
-  - [Python Emailer](https://github.com/1317786/Python-Emailer-)
 
 
+- [Google Cybersecurity Certificate](https://www.credly.com/badges/aba3ca12-6933-42ec-8a87-e0061fe98b4b/public_url)
 
