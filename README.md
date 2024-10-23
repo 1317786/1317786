@@ -26,8 +26,6 @@
 
 
 
-https://github.com/1317786/Nessus-Vulnerability-Management
-
 
 
 
