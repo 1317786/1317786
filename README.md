@@ -36,9 +36,11 @@
 <h2>📝 Certifications</h2>
 
 
-- [Google Cybersecurity Certificate](https://www.credly.com/badges/aba3ca12-6933-42ec-8a87-e0061fe98b4b/public_url)
+
 - [CompTIA Security+](https://github.com/1317786/Security-Verification)
 - [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/61470c670a794788ab9422008cc2beb8)
+
+- [Google Cybersecurity Certificate](https://www.credly.com/badges/aba3ca12-6933-42ec-8a87-e0061fe98b4b/public_url)
 
 
 
