@@ -28,7 +28,6 @@
 
 
 
-https://github.com/1317786/Splunk-Verification-
 
 
   
