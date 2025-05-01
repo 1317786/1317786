@@ -26,7 +26,7 @@
 - [Splunk Lab](https://github.com/1317786/Splunk-Lab)
 
 
-https://github.com/1317786/Splunk-Lab
+
 
 
 
